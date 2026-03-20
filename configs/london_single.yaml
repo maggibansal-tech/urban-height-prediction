@@ -1,0 +1,8 @@
+
+defaults:
+  - base
+
+data:
+  train_dir: data/london/train
+  val_dir: data/london/val
+  test_dir: data/london/test

@@ -1,0 +1,17 @@
+# data
+data/
+*.tif
+*.las
+*.zip
+
+# python
+__pycache__/
+*.pyc
+
+# env
+env/
+*.conda
+
+# large files
+*.ecw
+*.jp2

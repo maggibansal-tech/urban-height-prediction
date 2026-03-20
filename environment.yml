@@ -1,0 +1,10 @@
+name: urban_height
+dependencies:
+  - python=3.10
+  - rasterio
+  - gdal
+  - numpy
+  - matplotlib
+  - pip
+  - pip:
+      - pyvista

@@ -1,0 +1,9 @@
+
+training:
+  epochs: 10
+  lr: 1e-4
+  seed: 42
+
+data:
+  batch_size: 4
+  image_size: 128
